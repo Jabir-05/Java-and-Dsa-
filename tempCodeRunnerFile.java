@@ -1,1 +1,2 @@
-Scanner input = new Scanner(System.in);
+String Personalised = MyGreet(name);
+        Sy
